@@ -2,5 +2,5 @@
 
 ## Method A modifeid
 
-## Method B
+## Method B Changed
 ### New Method B.1
